@@ -1,0 +1,5 @@
+langchain_community
+langchain_google_genai
+langchain_qdrant
+google.generativeai
+streamlit
